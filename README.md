@@ -11,7 +11,7 @@ The system uses an HC-SR04 ultrasonic sensor to measure the distance to obstacle
 The objective of this project is to develop a simple and low-cost obstacle detection system using Arduino UNO.
 ## Project Circuit
 
-![Smart Blind Stick Circuit]
+[Smart Blind Stick Circuit]
 ## Hardware Used
 
 * Arduino UNO
