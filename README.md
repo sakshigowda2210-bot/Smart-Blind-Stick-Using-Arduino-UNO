@@ -37,6 +37,7 @@ The objective of this project is to develop a simple and low-cost obstacle detec
 4. The distance to the obstacle is calculated.
 5. If the distance is less than 20 cm, the buzzer is activated.
 6. The measured distance is displayed on the Serial Monitor.
+   Distance (cm) = (echo time in µs × 0.034) ÷ 2
 
 ## Features
 
